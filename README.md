@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kazelyh</h1>
 <h3 align="center">Your time is limited, don't waste it living someone else's life</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="coding" width="500" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uchihokay&label=Profile%20views&color=0e75b6&style=flat" alt="uchihokay" /> </p>
 
 - 🐼 Hi, i am student in **Hanoi**
