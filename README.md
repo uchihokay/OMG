@@ -10,11 +10,11 @@
 
    
 
-<h4 align="left">-  - 🐼 Hi, i am student in Hanoi !!</h4>
+<h3 align="left">-  - 🐼 Hi, I am currently a student in Hanoi !!</h3>
 
-<h4 align="left">-  - ⚡ Fun fact, I am funny :))</h4>
+<h3 align="left">-  - ⚡ Fun fact, I am funny :))</h3>
 
-<h4 align="left">-  - 👀 Do we know each other ??</h4>
+<h3 align="left">-  - 👀 Do we know each other ??</h3>
 
 <br>
 <br>
