@@ -12,7 +12,7 @@
 
 <h3 align="left">-  - 🐼 Hello :))</h3>
 
-<h3 align="left">-  - ⚡ I am funny :))</h3>
+<h3 align="left">-  - ⚡ I'm funny :))</h3>
 
 <h3 align="left">-  - 👀 Do we know each other ??</h3>
 
