@@ -10,7 +10,7 @@
 
    
 
-<h3 align="left">-  - 🐼 Hello :))</h3>
+<h3 align="left">-  - 🐼 I'm studying in Hanoii 👀</h3>
 
 <h3 align="left">-  - ⚡  :))</h3>
 
