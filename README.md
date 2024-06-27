@@ -17,7 +17,7 @@
 
 <h3 align="left">-  - 🐼 Hanoii 👀</h3>
 
-<h3 align="left">-  - ⚡ Have crs '🙎‍♀️k5':))</h3>
+<h3 align="left">-  - ⚡ Opps:))</h3>
 
 <h3 align="left">-  - 👀 Security Information :></h3>
 
