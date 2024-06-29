@@ -1,6 +1,6 @@
 
 
-<h1 align="center">✨Your time is limited, don't waste it living someone else's life✨</h1>
+<h1 align="center">✨Stars can’t shine without darkness✨</h1>
 
 <br>
    <img align="right" alt="coding" width="200" src="https://media2.giphy.com/media/Iv4BMm4OVwAqjVZOZI/giphy.gif?cid=6c09b9523zu716978qh41ugypcljc439sys6y7ji5d9uxlsn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" />
