@@ -19,7 +19,7 @@
 
 <h3 align="left">-  - ⚡ Opps:))</h3>
 
-<h3 align="left">-  - 👀 Security Information :></h3>
+<h3 align="left">-  - 👀 Anti love :></h3>
 
 <br>
 <br>
