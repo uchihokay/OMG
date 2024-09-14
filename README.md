@@ -5,7 +5,7 @@
 <br>
    <img align="right" alt="coding" width="200" src="https://media2.giphy.com/media/Iv4BMm4OVwAqjVZOZI/giphy.gif?cid=6c09b9523zu716978qh41ugypcljc439sys6y7ji5d9uxlsn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" />
 
-<img align="right" alt="coding" width="400" src="https://www.animationliberty.com/assets/images/sm-video.gif" />
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <br>
 
 
